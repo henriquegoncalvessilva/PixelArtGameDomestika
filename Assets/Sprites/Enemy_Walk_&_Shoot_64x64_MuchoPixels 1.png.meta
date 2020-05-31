@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 2328c7b31ebf7a94cae7eeda0fb24a6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7048699745753530320
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_0
+  - first:
+      213: -3650953357130258260
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_1
+  - first:
+      213: 242155378450153506
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_2
+  - first:
+      213: -109123732656357499
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_3
+  - first:
+      213: 7603347700532965387
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_4
+  - first:
+      213: 182560727539010675
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_5
+  - first:
+      213: 4305949439777492666
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_6
+  - first:
+      213: -9071950805475371596
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_7
+  - first:
+      213: 3344571876036216449
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_8
+  - first:
+      213: 2337692773377982778
+    second: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03089f54decfd2e90800000000000000
+      internalID: -7048699745753530320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca82bb8e345355dc0800000000000000
+      internalID: -3650953357130258260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c8f0a80f4c5300800000000000000
+      internalID: 242155378450153506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff3761b805c7ef0800000000000000
+      internalID: -109123732656357499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00fc0a0374848960800000000000000
+      internalID: 7603347700532965387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c46e2b306988200800000000000000
+      internalID: 182560727539010675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abecaba933ec1cb30800000000000000
+      internalID: 4305949439777492666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b552d3cec4f91280800000000000000
+      internalID: -9071950805475371596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18686e4a66e4a6e20800000000000000
+      internalID: 3344571876036216449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Walk_&_Shoot_64x64_MuchoPixels 1_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 21
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3141371137217020800000000000000
+      internalID: 2337692773377982778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
