@@ -8,11 +8,9 @@
 
 *I made this prototype to practice my knowledge at Unity. If you find an error or have suggestions for improvements, I'd like you to comment.*
 
-Coded by: Henrique Gonçalves
+Coded by  https://henriquedev.netlify.app
 
-Coded by henriquedev.netlify.app
-
-Music and some Sound FX by soundcloud.com/sitor
+Music and some Sound FX by https://soundcloud.com/sitor
 
 Gameplay Video: https://streamable.com/kv6hrk
 
